@@ -14,13 +14,13 @@ Custom architectures integrating global descriptors (CLIP + DINOv2), geometric v
 
 Authors
 
-Ibtesam Hussain – 22K4125@nu.edu.pk
+Ibtesam Hussain – K224125@nu.edu.pk
 
-Shaheer Uddin – 22K8719@nu.edu.pk
+Shaheer Uddin – K228719@nu.edu.pk
 
-Safey Ahmed – 22K4039@nu.edu.pk
+Safey Ahmed – K224039@nu.edu.pk
 
-Sajjad Ali – 22K8729@nu.edu.pk
+Sajjad Ali – K228729@nu.edu.pk
 
 Department of Artificial Intelligence, FAST National University of Computer and Emerging Sciences
 

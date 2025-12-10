@@ -1,0 +1,17 @@
+torch==2.9.1
+torchvision==0.24.1
+timm==0.9.16
+open-clip-torch==2.24.0
+kornia==0.7.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+networkx==3.2.1
+python-louvain==0.16
+tqdm==4.66.2
+Pillow==11.0.0
+pycolmap==3.9.0; platform_system != "Windows"
+pyyaml==6.0.1
+matplotlib==3.8.4
+
